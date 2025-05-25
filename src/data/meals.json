@@ -1,0 +1,303 @@
+[
+  {
+    "Slug": "pita-gyros",
+    "Meal": "Pita gyros",
+    "PreparationTimeMinutes": 15,
+    "CanBeLeftovers": false,
+    "NumberOfPeople": 3
+  },
+  {
+    "Slug": "prei-rijst-chilisaus",
+    "Meal": "Prei rijst chilisaus",
+    "PreparationTimeMinutes": 30,
+    "CanBeLeftovers": false,
+    "NumberOfPeople": 3
+  },
+  {
+    "Slug": "wraps",
+    "Meal": "Wraps",
+    "PreparationTimeMinutes": 15,
+    "CanBeLeftovers": false,
+    "NumberOfPeople": 3
+  },
+  {
+    "Slug": "bio-kriel-oven-bloemkool-chipo",
+    "Meal": "Bio kriel, oven bloemkool, chipolata worstjes",
+    "PreparationTimeMinutes": 30,
+    "CanBeLeftovers": false,
+    "NumberOfPeople": 3
+  },
+  {
+    "Slug": "hamburgers",
+    "Meal": "Hamburgers",
+    "PreparationTimeMinutes": 45,
+    "CanBeLeftovers": false,
+    "NumberOfPeople": 3
+  },
+  {
+    "Slug": "aubergine-rode-linzen-ottolenghi",
+    "Meal": "Aubergine  rode linzen ottolenghi",
+    "PreparationTimeMinutes": 60,
+    "CanBeLeftovers": true,
+    "NumberOfPeople": 3
+  },
+  {
+    "Slug": "quiches-salade-worstjes",
+    "Meal": "Quiches + salade + worstjes",
+    "PreparationTimeMinutes": 15,
+    "CanBeLeftovers": false,
+    "NumberOfPeople": 3
+  },
+  {
+    "Slug": "ravioli-tomatensaus-courgette",
+    "Meal": "\"Ravioli, tomatensaus; courgette\"",
+    "PreparationTimeMinutes": 15,
+    "CanBeLeftovers": false,
+    "NumberOfPeople": 3
+  },
+  {
+    "Slug": "flammkuchen-broccoli-rode-ui-blau",
+    "Meal": "Flammkuchen, broccoli, rode ui, blauwe kaas roquefort, walnoot",
+    "PreparationTimeMinutes": 30,
+    "CanBeLeftovers": false,
+    "NumberOfPeople": 3
+  },
+  {
+    "Slug": "gepofte-zoete-aardappel-met-b",
+    "Meal": "Gepofte zoete aardappel met burrata geroosterde walnoot pesto & salie (+ravioli)",
+    "PreparationTimeMinutes": 45,
+    "CanBeLeftovers": false,
+    "NumberOfPeople": 3
+  },
+  {
+    "Slug": "lasagne",
+    "Meal": "Lasagne",
+    "PreparationTimeMinutes": 45,
+    "CanBeLeftovers": true,
+    "NumberOfPeople": 3
+  },
+  {
+    "Slug": "pompoen-lasagne-met-geitenkaas",
+    "Meal": "Pompoen lasagne met geitenkaas",
+    "PreparationTimeMinutes": 45,
+    "CanBeLeftovers": true,
+    "NumberOfPeople": 3
+  },
+  {
+    "Slug": "bami-satesaus",
+    "Meal": "Bami, satésaus",
+    "PreparationTimeMinutes": 30,
+    "CanBeLeftovers": true,
+    "NumberOfPeople": 3
+  },
+  {
+    "Slug": "groene-bakplaat-zoete-aardappe",
+    "Meal": "Groene bakplaat zoete aardappel",
+    "PreparationTimeMinutes": 45,
+    "CanBeLeftovers": false,
+    "NumberOfPeople": 3
+  },
+  {
+    "Slug": "broccoli-bloemkool-taart-ottole",
+    "Meal": "Broccoli / bloemkool taart ottolenghi",
+    "PreparationTimeMinutes": 60,
+    "CanBeLeftovers": false,
+    "NumberOfPeople": 3
+  },
+  {
+    "Slug": "jalapeno-maisbrood-ottolenghi",
+    "Meal": "Jalapeño-maïsbrood ottolenghi",
+    "PreparationTimeMinutes": 60,
+    "CanBeLeftovers": false,
+    "NumberOfPeople": 3
+  },
+  {
+    "Slug": "risotto-met-tonijn-courgette-e",
+    "Meal": "Risotto met tonijn, courgette en pesto",
+    "PreparationTimeMinutes": 30,
+    "CanBeLeftovers": false,
+    "NumberOfPeople": 3
+  },
+  {
+    "Slug": "vis-met-teriyakisaus-groente-e",
+    "Meal": "Vis met teriyakisaus, groente en rijst of noedels",
+    "PreparationTimeMinutes": 15,
+    "CanBeLeftovers": false,
+    "NumberOfPeople": 3
+  },
+  {
+    "Slug": "curry-madras-pakket-met-tempeh",
+    "Meal": "Curry madras-pakket met tempeh",
+    "PreparationTimeMinutes": 30,
+    "CanBeLeftovers": false,
+    "NumberOfPeople": 3
+  },
+  {
+    "Slug": "spruitjes-met-gebakken-aardappe",
+    "Meal": "Spruitjes met gebakken aardappels en druiven",
+    "PreparationTimeMinutes": 45,
+    "CanBeLeftovers": false,
+    "NumberOfPeople": 3
+  },
+  {
+    "Slug": "boerenkoolstamppot",
+    "Meal": "Boerenkoolstamppot",
+    "PreparationTimeMinutes": 45,
+    "CanBeLeftovers": true,
+    "NumberOfPeople": 3
+  },
+  {
+    "Slug": "witlof-kabeljauw-ovenschotel",
+    "Meal": "Witlof-kabeljauw ovenschotel",
+    "PreparationTimeMinutes": 45,
+    "CanBeLeftovers": false,
+    "NumberOfPeople": 3
+  },
+  {
+    "Slug": "nasi-met-wokgroente-kip-tempe",
+    "Meal": "Nasi met wokgroente, kip, tempeh, atjar en satésaus",
+    "PreparationTimeMinutes": 15,
+    "CanBeLeftovers": true,
+    "NumberOfPeople": 3
+  },
+  {
+    "Slug": "massaman-curry-allerhande",
+    "Meal": "Massaman curry (allerhande)",
+    "PreparationTimeMinutes": 45,
+    "CanBeLeftovers": true,
+    "NumberOfPeople": 3
+  },
+  {
+    "Slug": "pasta-met-kaassaus-en-bleeksele",
+    "Meal": "Pasta met kaassaus en bleekselderij",
+    "PreparationTimeMinutes": 30,
+    "CanBeLeftovers": true,
+    "NumberOfPeople": 3
+  },
+  {
+    "Slug": "bietjes-met-walnoot-en-feta-v",
+    "Meal": "Bietjes met walnoot en feta, vis en rösti",
+    "PreparationTimeMinutes": 15,
+    "CanBeLeftovers": false,
+    "NumberOfPeople": 3
+  },
+  {
+    "Slug": "pizza",
+    "Meal": "Pizza",
+    "PreparationTimeMinutes": 15,
+    "CanBeLeftovers": false,
+    "NumberOfPeople": 3
+  },
+  {
+    "Slug": "spruitjes-met-burrata-druiven",
+    "Meal": "Spruitjes met burrata, druiven en kip",
+    "PreparationTimeMinutes": 30,
+    "CanBeLeftovers": false,
+    "NumberOfPeople": 3
+  },
+  {
+    "Slug": "sajoerboontjes-pakket",
+    "Meal": "Sajoerboontjes-pakket",
+    "PreparationTimeMinutes": 30,
+    "CanBeLeftovers": false,
+    "NumberOfPeople": 3
+  },
+  {
+    "Slug": "ovenaardappels-lekkerbek-en-broc",
+    "Meal": "Ovenaardappels, lekkerbek en broccoli",
+    "PreparationTimeMinutes": 30,
+    "CanBeLeftovers": false,
+    "NumberOfPeople": 3
+  },
+  {
+    "Slug": "caponata-met-vlinderpasta-e",
+    "Meal": "Caponata met vlinderpasta en chipolataworstjes",
+    "PreparationTimeMinutes": 45,
+    "CanBeLeftovers": false,
+    "NumberOfPeople": 3
+  },
+  {
+    "Slug": "spaghetti-met-bleekselderij",
+    "Meal": "Spaghetti met bleekselderij en wortel",
+    "PreparationTimeMinutes": 30,
+    "CanBeLeftovers": true,
+    "NumberOfPeople": 3
+  },
+  {
+    "Slug": "stamppot-met-snijbonen",
+    "Meal": "Stamppot met snijbonen",
+    "PreparationTimeMinutes": 30,
+    "CanBeLeftovers": true,
+    "NumberOfPeople": 3
+  },
+  {
+    "Slug": "gebakken-aardappels-bordelais",
+    "Meal": "Gebakken aardappels, bordelaisevis en courgette",
+    "PreparationTimeMinutes": 30,
+    "CanBeLeftovers": false,
+    "NumberOfPeople": 3
+  },
+  {
+    "Slug": "rosti-met-witte-bonen-in-to",
+    "Meal": "Rösti met witte bonen in tomatensaus en worstjes",
+    "PreparationTimeMinutes": 15,
+    "CanBeLeftovers": false,
+    "NumberOfPeople": 3
+  },
+  {
+    "Slug": "pangasiusfilet-met-kriel",
+    "Meal": "Pangasiusfilet met krieltjes en spinazie",
+    "PreparationTimeMinutes": 30,
+    "CanBeLeftovers": false,
+    "NumberOfPeople": 3
+  },
+  {
+    "Slug": "prei-met-kip-of-vis-rijst-c",
+    "Meal": "Prei met kip of vis, rijst, chilisaus en kroepoek",
+    "PreparationTimeMinutes": 30,
+    "CanBeLeftovers": false,
+    "NumberOfPeople": 3
+  },
+  {
+    "Slug": "spinazie-met-rosti-en-ei-of",
+    "Meal": "Spinazie met rösti en ei of vis",
+    "PreparationTimeMinutes": 15,
+    "CanBeLeftovers": false,
+    "NumberOfPeople": 3
+  },
+  {
+    "Slug": "gebakken-broccoli-met-garn",
+    "Meal": "Gebakken broccoli met garnalen, noedels, paksoi en cashewnoten",
+    "PreparationTimeMinutes": 30,
+    "CanBeLeftovers": false,
+    "NumberOfPeople": 3
+  },
+  {
+    "Slug": "courgette-lasagne-met-spi",
+    "Meal": "Courgette-lasagne met spinazie, wortel, champignons en gehakt",
+    "PreparationTimeMinutes": 0,
+    "CanBeLeftovers": false,
+    "NumberOfPeople": 3
+  },
+  {
+    "Slug": "stamppot-met-rode-kool-app",
+    "Meal": "Stamppot met rode kool, appelmoes en hachee",
+    "PreparationTimeMinutes": 0,
+    "CanBeLeftovers": false,
+    "NumberOfPeople": 3
+  },
+  {
+    "Slug": "gnocchi-met-broccoli-en-r",
+    "Meal": "Gnocchi met broccoli en rundervink",
+    "PreparationTimeMinutes": 0,
+    "CanBeLeftovers": false,
+    "NumberOfPeople": 3
+  },
+  {
+    "Slug": "wraps",
+    "Meal": "Wraps",
+    "PreparationTimeMinutes": 0,
+    "CanBeLeftovers": false,
+    "NumberOfPeople": 3
+  }
+]

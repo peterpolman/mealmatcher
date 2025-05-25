@@ -1,0 +1,9 @@
+[
+  {
+    "Meal": "pita-gyros",
+    "Quantity": 1,
+    "MaxShelfLifeInDays": 1,
+    "IsBonusRequired": false,
+    "ID": "365961"
+  }
+]

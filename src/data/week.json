@@ -1,0 +1,51 @@
+[
+  {
+    "Day": "Monday",
+    "Date": "2024-01-01",
+    "NumberOfPeople": 3,
+    "NumberOfPeopleLeftovers": 0,
+    "MaxPreparationTime": 60
+  },
+  {
+    "Day": "Tuesday",
+    "Date": "2024-01-02",
+    "NumberOfPeople": 0,
+    "NumberOfPeopleLeftovers": 0,
+    "MaxPreparationTime": 0
+  },
+  {
+    "Day": "Wednesday",
+    "Date": "2024-01-03",
+    "NumberOfPeople": 2,
+    "NumberOfPeopleLeftovers": 0,
+    "MaxPreparationTime": 15
+  },
+  {
+    "Day": "Thursday",
+    "Date": "2024-01-04",
+    "NumberOfPeople": 3,
+    "NumberOfPeopleLeftovers": 0,
+    "MaxPreparationTime": 60
+  },
+  {
+    "Day": "Friday",
+    "Date": "2024-01-05",
+    "NumberOfPeople": 2,
+    "NumberOfPeopleLeftovers": 0,
+    "MaxPreparationTime": 60
+  },
+  {
+    "Day": "Saturday",
+    "Date": "2024-01-06",
+    "NumberOfPeople": 1,
+    "NumberOfPeopleLeftovers": 0,
+    "MaxPreparationTime": 30
+  },
+  {
+    "Day": "Sunday",
+    "Date": "2024-01-07",
+    "NumberOfPeople": 3,
+    "NumberOfPeopleLeftovers": 3,
+    "MaxPreparationTime": 30
+  }
+]
