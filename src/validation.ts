@@ -1,73 +1,10 @@
-import puppeteer, { Page } from "puppeteer";
+import puppeteer from "puppeteer";
+import { BonusPage } from "./page";
 import { Meal, Product, WeekDay } from "./types";
 
 const USER_AGENT =
   "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120 Safari/537.36";
 
-class BonusPage {
-  url = "https://www.ah.nl/bonus";
-  constructor(private page: Page) {}
-
-  async goto(): Promise<void> {
-    await this.page.goto(this.url, {
-      waitUntil: "domcontentloaded",
-      timeout: 60000,
-    });
-  }
-
-  async waitForPromotionCards(): Promise<void> {
-    await this.page.waitForSelector('[data-testhook="promotion-card"]');
-  }
-
-  async extractBonusGroups(): Promise<string[]> {
-    return await this.page.evaluate(async () => {
-      const result: string[] = [];
-
-      const buttonClose = () =>
-        document.querySelector(
-          '[data-testhook="panel-header-close-button"]'
-        ) as HTMLAnchorElement;
-
-      const elements = Array.from(
-        document.querySelectorAll('[data-testhook="promotion-card"]')
-      );
-
-      for (const element of elements) {
-        const card = element as HTMLAnchorElement;
-        card.click();
-
-        // Wait for the product panel to appear
-        await new Promise((resolve) => {
-          const interval = setInterval(() => {
-            const panel = document.querySelector(
-              '[data-testhook="panel-body"]'
-            );
-            const products = panel?.querySelectorAll(
-              '[href^="/producten/product/"]'
-            );
-            if (products?.length) {
-              clearInterval(interval);
-              resolve(true);
-            }
-          }, 50);
-        });
-        const products = document.querySelectorAll(
-          '[href^="/producten/product/"]'
-        );
-        const productIds = Array.from(products).map(({ href }: any) => {
-          const match = href.match(/\/wi(\d+)(?:\/|$)/);
-          return match ? match[1] : "";
-        });
-
-        result.push(...productIds);
-
-        buttonClose()?.click();
-      }
-
-      return result;
-    });
-  }
-}
 /**
  * Fetch the bonus products from the AH website.
  * It launches a Puppeteer browser instance, navigates to the bonus page,

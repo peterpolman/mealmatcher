@@ -7,6 +7,11 @@ const main = async () => {
   const bonusProductIds = await fetchBonusProducts();
   const plan = matchMeals(Meals, bonusProductIds, Products, Week);
   console.log(plan);
+
+  // TODO
+  // - Insert complete product data set
+  // - Expand tests to validate proper algo functionality
+  // - Add required products for meal to shopping cart (correct quantities)
 };
 
 main().catch((error) => console.error(error));
