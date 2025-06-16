@@ -30,6 +30,13 @@ const main = async () => {
     Saturday: plan.Saturday,
     Sunday: plan.Sunday,
   });
+
+  // TODO
+  // - [ ] Export bonus, products per meal with shopping list
+  // - [ ] Ability to add .5 product quantities
+  // - [ ] Auto schedule meals for the week on Saturday 5am
+  // - [ ] Send export per mail and add link to rerun for a day
+  // - [ ] Way to rerun a ranking for meals on a specific day
 };
 
 main().catch((error) => console.error(error));
