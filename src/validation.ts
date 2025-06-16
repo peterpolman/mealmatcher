@@ -266,6 +266,7 @@ export const rankMeals = (
           ),
         };
         const result =
+          meal.Slug &&
           // 1.0: Meal must have ingredients
           conditions.hasIngredients &&
           // 1.1: Is not already in the plan

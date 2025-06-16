@@ -3,7 +3,7 @@ import Week from "./data/week.json";
 import {
   fetchBonusProducts,
   fetchSheet,
-  matchMeals,
+  rankMeals,
   sortWeekByPreparationTime,
 } from "./validation";
 
@@ -18,7 +18,7 @@ const main = async () => {
   const week = sortWeekByPreparationTime(Week);
   console.log("Week:", week);
   const bonusProductIds = FETCH_BONUS_DATA ? await fetchBonusProducts() : Bonus;
-  const plan = matchMeals(meals, bonusProductIds, products, week);
+  const plan = rankMeals(meals, bonusProductIds, products, week);
 
   console.log("🛒 Shopping List");
   console.log({
