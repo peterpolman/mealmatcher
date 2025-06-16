@@ -16,6 +16,17 @@ export class BonusPage {
     await this.page.waitForSelector('[data-testhook="promotion-card"]');
   }
 
+  async acceptTerms() {
+    const selector = '[data-testhook="accept-cookies"]';
+    await this.page.waitForSelector(selector);
+    await this.page.click(selector);
+  }
+
+  async selectNextWeek() {
+    await this.page.click('[data-testhook="period-toggle-button"]');
+    await this.page.click('[data-testhook="period-toggle-item"]:nth-child(2)');
+  }
+
   async extractBonusGroups(): Promise<string[]> {
     return await this.page.evaluate(async () => {
       const result: string[] = [];

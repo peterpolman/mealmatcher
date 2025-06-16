@@ -9,9 +9,10 @@ export type Meal = {
 export type Product = {
   Meal: string;
   Quantity: number;
-  MaxShelfLifeInDays: number;
+  MaxShelfLifeInDays: number | string;
   IsBonusRequired: boolean;
-  ID: string;
+  ID: number;
+  URL: string;
 };
 
 export type WeekDay = {

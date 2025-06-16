@@ -1,9 +1,530 @@
 [
   {
-    "Meal": "pita-gyros",
+    "Meal": "wraps",
+    "URL": "https://www.ah.nl/producten/product/wi414041/hak-burritoschotel",
+    "Quantity": 2,
+    "MaxShelfLifeInDays": 5,
+    "IsBonusRequired": true,
+    "ID": 414041
+  },
+  {
+    "Meal": "wraps",
+    "URL": "https://www.ah.nl/producten/product/wi436752/ah-biologisch-rundergehakt",
     "Quantity": 1,
-    "MaxShelfLifeInDays": 1,
+    "MaxShelfLifeInDays": 2,
     "IsBonusRequired": false,
-    "ID": "365961"
+    "ID": 436752
+  },
+  {
+    "Meal": "wraps",
+    "URL": "https://www.ah.nl/producten/product/wi195849/de-zaanse-hoeve-creme-fraiche",
+    "Quantity": 1,
+    "MaxShelfLifeInDays": "",
+    "IsBonusRequired": false,
+    "ID": 195849
+  },
+  {
+    "Meal": "wraps",
+    "URL": "https://www.ah.nl/producten/product/wi365661/ah-avocado-stukjes",
+    "Quantity": 1,
+    "MaxShelfLifeInDays": "",
+    "IsBonusRequired": false,
+    "ID": 365661
+  },
+  {
+    "Meal": "wraps",
+    "URL": "https://www.ah.nl/producten/product/wi4169/ah-witte-champignons",
+    "Quantity": 1,
+    "MaxShelfLifeInDays": "",
+    "IsBonusRequired": false,
+    "ID": 4169
+  },
+  {
+    "Meal": "wraps",
+    "URL": "https://www.ah.nl/producten/product/wi140637/ah-tortilla-naturel-wraps-large",
+    "Quantity": 1,
+    "MaxShelfLifeInDays": "",
+    "IsBonusRequired": false,
+    "ID": 140637
+  },
+  {
+    "Meal": "wraps",
+    "URL": "https://www.ah.nl/producten/product/wi140101/de-zaanse-hoeve-mild-45-geraspt",
+    "Quantity": 1,
+    "MaxShelfLifeInDays": "",
+    "IsBonusRequired": false,
+    "ID": 140101
+  },
+  {
+    "Meal": "pita-gyros",
+    "URL": "https://www.ah.nl/producten/product/wi564794/ah-terra-plantaardige-shoarma",
+    "Quantity": 2,
+    "MaxShelfLifeInDays": "",
+    "IsBonusRequired": false,
+    "ID": 564794
+  },
+  {
+    "Meal": "pita-gyros",
+    "URL": "https://www.ah.nl/producten/product/wi459008/ah-volkoren-pita-s",
+    "Quantity": 1,
+    "MaxShelfLifeInDays": "",
+    "IsBonusRequired": false,
+    "ID": 459008
+  },
+  {
+    "Meal": "pita-gyros",
+    "URL": "https://www.ah.nl/producten/product/wi4137/ah-cherrytomaten",
+    "Quantity": 1,
+    "MaxShelfLifeInDays": "",
+    "IsBonusRequired": false,
+    "ID": 4137
+  },
+  {
+    "Meal": "pita-gyros",
+    "URL": "https://www.ah.nl/producten/product/wi140101/de-zaanse-hoeve-mild-45-geraspt",
+    "Quantity": 1,
+    "MaxShelfLifeInDays": "",
+    "IsBonusRequired": false,
+    "ID": 140101
+  },
+  {
+    "Meal": "prei-rijst-chilisaus",
+    "URL": "https://www.ah.nl/producten/product/wi171425/ah-prei",
+    "Quantity": 4,
+    "MaxShelfLifeInDays": "",
+    "IsBonusRequired": false,
+    "ID": 171425
+  },
+  {
+    "Meal": "prei-rijst-chilisaus",
+    "URL": "https://www.ah.nl/producten/product/wi140671/ah-pangasiusfilet",
+    "Quantity": 1,
+    "MaxShelfLifeInDays": "",
+    "IsBonusRequired": false,
+    "ID": 140671
+  },
+  {
+    "Meal": "bio-kriel-oven-bloemkool-chipolata-worstjes",
+    "URL": "https://www.ah.nl/producten/product/wi436759/ah-biologisch-runderchipolata",
+    "Quantity": 1,
+    "MaxShelfLifeInDays": "",
+    "IsBonusRequired": false,
+    "ID": 436759
+  },
+  {
+    "Meal": "bio-kriel-oven-bloemkool-chipolata-worstjes",
+    "URL": "https://www.ah.nl/producten/product/wi186629/ah-biologisch-bloemkool",
+    "Quantity": 1,
+    "MaxShelfLifeInDays": "",
+    "IsBonusRequired": false,
+    "ID": 186629
+  },
+  {
+    "Meal": "bio-kriel-oven-bloemkool-chipolata-worstjes",
+    "URL": "https://www.ah.nl/producten/product/wi127726/ah-biologisch-vastkokende-aardappelen",
+    "Quantity": 1,
+    "MaxShelfLifeInDays": "",
+    "IsBonusRequired": false,
+    "ID": 127726
+  },
+  {
+    "Meal": "bio-kriel-oven-bloemkool-chipolata-worstjes",
+    "URL": "https://www.ah.nl/producten/product/wi438961/ah-terra-plantaardige-hummus-naturel",
+    "Quantity": 1,
+    "MaxShelfLifeInDays": "",
+    "IsBonusRequired": false,
+    "ID": 438961
+  },
+  {
+    "Meal": "hamburgers",
+    "URL": "https://www.ah.nl/producten/product/wi187595/ah-greenfields-beefburger-tomaat",
+    "Quantity": 1,
+    "MaxShelfLifeInDays": "",
+    "IsBonusRequired": true,
+    "ID": 187595
+  },
+  {
+    "Meal": "hamburgers",
+    "URL": "https://www.ah.nl/producten/product/wi187593/ah-greenfields-beefburger-jalapeno-2-stuks",
+    "Quantity": 1,
+    "MaxShelfLifeInDays": "",
+    "IsBonusRequired": true,
+    "ID": 187593
+  },
+  {
+    "Meal": "hamburgers",
+    "URL": "https://www.ah.nl/producten/product/wi588670/ah-gekleurde-hamburger-brioche-oranje",
+    "Quantity": 1,
+    "MaxShelfLifeInDays": "",
+    "IsBonusRequired": false,
+    "ID": 588670
+  },
+  {
+    "Meal": "hamburgers",
+    "URL": "https://www.ah.nl/producten/product/wi588674/ah-gekleurde-hamburger-brioche-groen",
+    "Quantity": 1,
+    "MaxShelfLifeInDays": "",
+    "IsBonusRequired": false,
+    "ID": 588674
+  },
+  {
+    "Meal": "hamburgers",
+    "URL": "https://www.ah.nl/producten/product/wi539536/ah-smeltkaas-met-cheddar-plakken",
+    "Quantity": 1,
+    "MaxShelfLifeInDays": "",
+    "IsBonusRequired": false,
+    "ID": 539536
+  },
+  {
+    "Meal": "quiches-salade-worstjes",
+    "URL": "https://www.ah.nl/producten/product/wi55960/ah-quiche-lorraine",
+    "Quantity": 2,
+    "MaxShelfLifeInDays": "",
+    "IsBonusRequired": true,
+    "ID": 55960
+  },
+  {
+    "Meal": "quiches-salade-worstjes",
+    "URL": "https://www.ah.nl/producten/product/wi474117/ah-quiche-spinazie-geitenkaas",
+    "Quantity": 2,
+    "MaxShelfLifeInDays": "",
+    "IsBonusRequired": true,
+    "ID": 474117
+  },
+  {
+    "Meal": "quiches-salade-worstjes",
+    "URL": "https://www.ah.nl/producten/product/wi4099/ah-ijsbergsla",
+    "Quantity": 1,
+    "MaxShelfLifeInDays": "",
+    "IsBonusRequired": false,
+    "ID": 4099
+  },
+  {
+    "Meal": "quiches-salade-worstjes",
+    "URL": "https://www.ah.nl/producten/product/wi436759/ah-biologisch-runderchipolata",
+    "Quantity": 2,
+    "MaxShelfLifeInDays": "",
+    "IsBonusRequired": false,
+    "ID": 436759
+  },
+  {
+    "Meal": "ravioli-tomatensaus-courgette",
+    "URL": "https://www.ah.nl/producten/product/wi142435/ah-verse-ravioli-5-formaggio",
+    "Quantity": 2,
+    "MaxShelfLifeInDays": "",
+    "IsBonusRequired": true,
+    "ID": 142435
+  },
+  {
+    "Meal": "ravioli-tomatensaus-courgette",
+    "URL": "https://www.ah.nl/producten/product/wi120332/ah-pastasaus-tomaat-mascarpone",
+    "Quantity": 2,
+    "MaxShelfLifeInDays": "",
+    "IsBonusRequired": true,
+    "ID": 120332
+  },
+  {
+    "Meal": "ravioli-tomatensaus-courgette",
+    "URL": "https://www.ah.nl/producten/product/wi4164/ah-courgette",
+    "Quantity": 2,
+    "MaxShelfLifeInDays": "",
+    "IsBonusRequired": false,
+    "ID": 4164
+  },
+  {
+    "Meal": "ravioli-tomatensaus-courgette",
+    "URL": "https://www.ah.nl/producten/product/wi577214/ah-terra-biologisch-falafel-courgette",
+    "Quantity": 1,
+    "MaxShelfLifeInDays": "",
+    "IsBonusRequired": false,
+    "ID": 577214
+  },
+  {
+    "Meal": "flammkuchen-broccoli-rode-ui-blauwe-kaas-roquefort-walnoot",
+    "URL": "https://www.ah.nl/producten/product/wi560988/ah-flammkuchendeeg",
+    "Quantity": 2,
+    "MaxShelfLifeInDays": "",
+    "IsBonusRequired": true,
+    "ID": 560988
+  },
+  {
+    "Meal": "flammkuchen-broccoli-rode-ui-blauwe-kaas-roquefort-walnoot",
+    "URL": "https://www.ah.nl/producten/product/wi4177/ah-broccoli",
+    "Quantity": 2,
+    "MaxShelfLifeInDays": "",
+    "IsBonusRequired": false,
+    "ID": 4177
+  },
+  {
+    "Meal": "flammkuchen-broccoli-rode-ui-blauwe-kaas-roquefort-walnoot",
+    "URL": "https://www.ah.nl/producten/product/wi195849/de-zaanse-hoeve-creme-fraiche",
+    "Quantity": 1,
+    "MaxShelfLifeInDays": "",
+    "IsBonusRequired": false,
+    "ID": 195849
+  },
+  {
+    "Meal": "flammkuchen-broccoli-rode-ui-blauwe-kaas-roquefort-walnoot",
+    "URL": "https://www.ah.nl/producten/product/wi59684/ah-excellent-roquefort-52",
+    "Quantity": 1,
+    "MaxShelfLifeInDays": "",
+    "IsBonusRequired": false,
+    "ID": 59684
+  },
+  {
+    "Meal": "gepofte-zoete-aardappel-met-burrata-geroosterde-walnoot-pesto-salie-ravioli",
+    "URL": "https://www.ah.nl/producten/product/wi164358/ah-oranje-zoete-aardappel",
+    "Quantity": 1,
+    "MaxShelfLifeInDays": "",
+    "IsBonusRequired": false,
+    "ID": 164358
+  },
+  {
+    "Meal": "gepofte-zoete-aardappel-met-burrata-geroosterde-walnoot-pesto-salie-ravioli",
+    "URL": "https://www.ah.nl/producten/product/wi160917/ah-pestosaus-groen",
+    "Quantity": 2,
+    "MaxShelfLifeInDays": "",
+    "IsBonusRequired": true,
+    "ID": 160917
+  },
+  {
+    "Meal": "gepofte-zoete-aardappel-met-burrata-geroosterde-walnoot-pesto-salie-ravioli",
+    "URL": "https://www.ah.nl/producten/product/wi560692/ah-burrata-50",
+    "Quantity": 1,
+    "MaxShelfLifeInDays": "",
+    "IsBonusRequired": false,
+    "ID": 560692
+  },
+  {
+    "Meal": "gepofte-zoete-aardappel-met-burrata-geroosterde-walnoot-pesto-salie-ravioli",
+    "URL": "https://www.ah.nl/producten/product/wi200547/ah-salie",
+    "Quantity": 1,
+    "MaxShelfLifeInDays": "",
+    "IsBonusRequired": false,
+    "ID": 200547
+  },
+  {
+    "Meal": "gepofte-zoete-aardappel-met-burrata-geroosterde-walnoot-pesto-salie-ravioli",
+    "URL": "https://www.ah.nl/producten/product/wi436414/ah-biologisch-linguine-volkoren",
+    "Quantity": 2,
+    "MaxShelfLifeInDays": "",
+    "IsBonusRequired": true,
+    "ID": 436414
+  },
+  {
+    "Meal": "gepofte-zoete-aardappel-met-burrata-geroosterde-walnoot-pesto-salie-ravioli",
+    "URL": "https://www.ah.nl/producten/product/wi436755/ah-biologisch-rundervink",
+    "Quantity": 1,
+    "MaxShelfLifeInDays": "",
+    "IsBonusRequired": false,
+    "ID": 436755
+  },
+  {
+    "Meal": "lasagne",
+    "URL": "https://www.ah.nl/producten/product/wi2110/honig-basis-voor-lasagnesaus",
+    "Quantity": 1,
+    "MaxShelfLifeInDays": "",
+    "IsBonusRequired": false,
+    "ID": 2110
+  },
+  {
+    "Meal": "lasagne",
+    "URL": "https://www.ah.nl/producten/product/wi769/ah-spinazie",
+    "Quantity": 1,
+    "MaxShelfLifeInDays": "",
+    "IsBonusRequired": false,
+    "ID": 769
+  },
+  {
+    "Meal": "lasagne",
+    "URL": "https://www.ah.nl/producten/product/wi436752/ah-biologisch-rundergehakt",
+    "Quantity": 1,
+    "MaxShelfLifeInDays": "",
+    "IsBonusRequired": false,
+    "ID": 436752
+  },
+  {
+    "Meal": "lasagne",
+    "URL": "https://www.ah.nl/producten/product/wi140101/de-zaanse-hoeve-mild-45-geraspt",
+    "Quantity": 1,
+    "MaxShelfLifeInDays": "",
+    "IsBonusRequired": false,
+    "ID": 140101
+  },
+  {
+    "Meal": "lasagne",
+    "URL": "https://www.ah.nl/producten/product/wi4169/ah-witte-champignons",
+    "Quantity": 1,
+    "MaxShelfLifeInDays": "",
+    "IsBonusRequired": false,
+    "ID": 4169
+  },
+  {
+    "Meal": "bami-satesaus",
+    "URL": "https://www.ah.nl/producten/product/wi55943/go-tan-mihoen-rice-noodles",
+    "Quantity": 1,
+    "MaxShelfLifeInDays": "",
+    "IsBonusRequired": false,
+    "ID": 55943
+  },
+  {
+    "Meal": "bami-satesaus",
+    "URL": "https://www.ah.nl/producten/product/wi155587/ah-luxe-wok-chinees-sugersnaps-paksoi",
+    "Quantity": 1,
+    "MaxShelfLifeInDays": "",
+    "IsBonusRequired": true,
+    "ID": 155587
+  },
+  {
+    "Meal": "bami-satesaus",
+    "URL": "https://www.ah.nl/producten/product/wi412551/ah-terra-tempeh-ketjap",
+    "Quantity": 1,
+    "MaxShelfLifeInDays": "",
+    "IsBonusRequired": false,
+    "ID": 412551
+  },
+  {
+    "Meal": "bami-satesaus",
+    "URL": "https://www.ah.nl/producten/product/wi538234/ah-kroepoek-bali",
+    "Quantity": 1,
+    "MaxShelfLifeInDays": "",
+    "IsBonusRequired": false,
+    "ID": 538234
+  },
+  {
+    "Meal": "vis-met-teriyakisaus-groente-en-rijst-of-noedels",
+    "URL": "https://www.ah.nl/producten/product/wi197753/ah-pangasiusfilet-knoflook-citroen",
+    "Quantity": 1,
+    "MaxShelfLifeInDays": "",
+    "IsBonusRequired": false,
+    "ID": 197753
+  },
+  {
+    "Meal": "vis-met-teriyakisaus-groente-en-rijst-of-noedels",
+    "URL": "https://www.ah.nl/producten/product/wi133277/ah-roerbakgroente-italiaans-champignons",
+    "Quantity": 2,
+    "MaxShelfLifeInDays": "",
+    "IsBonusRequired": false,
+    "ID": 133277
+  },
+  {
+    "Meal": "vis-met-teriyakisaus-groente-en-rijst-of-noedels",
+    "URL": "https://www.ah.nl/producten/product/wi238968/ah-koriander",
+    "Quantity": 1,
+    "MaxShelfLifeInDays": "",
+    "IsBonusRequired": false,
+    "ID": 238968
+  },
+  {
+    "Meal": "vis-met-teriyakisaus-groente-en-rijst-of-noedels",
+    "URL": "https://www.ah.nl/producten/product/wi538234/ah-kroepoek-bali",
+    "Quantity": 1,
+    "MaxShelfLifeInDays": "",
+    "IsBonusRequired": false,
+    "ID": 538234
+  },
+  {
+    "Meal": "pompoen-lasagne-met-geitenkaas",
+    "URL": "https://www.ah.nl/producten/product/wi482844/ah-flespompoen-stukjes",
+    "Quantity": 1,
+    "MaxShelfLifeInDays": "",
+    "IsBonusRequired": false,
+    "ID": 482844
+  },
+  {
+    "Meal": "pompoen-lasagne-met-geitenkaas",
+    "URL": "https://www.ah.nl/producten/product/wi236943/ah-geitenkaas-schijfjes-naturel",
+    "Quantity": 1,
+    "MaxShelfLifeInDays": "",
+    "IsBonusRequired": false,
+    "ID": 236943
+  },
+  {
+    "Meal": "pompoen-lasagne-met-geitenkaas",
+    "URL": "https://www.ah.nl/producten/product/wi234848/mutti-polpa-fijne-tomatenpulp",
+    "Quantity": 2,
+    "MaxShelfLifeInDays": "",
+    "IsBonusRequired": false,
+    "ID": 234848
+  },
+  {
+    "Meal": "pompoen-lasagne-met-geitenkaas",
+    "URL": "https://www.ah.nl/producten/product/wi436752/ah-biologisch-rundergehakt",
+    "Quantity": 1,
+    "MaxShelfLifeInDays": "",
+    "IsBonusRequired": false,
+    "ID": 436752
+  },
+  {
+    "Meal": "pompoen-lasagne-met-geitenkaas",
+    "URL": "https://www.ah.nl/producten/product/wi200547/ah-salie",
+    "Quantity": 1,
+    "MaxShelfLifeInDays": "",
+    "IsBonusRequired": false,
+    "ID": 200547
+  },
+  {
+    "Meal": "curry-madras-pakket-met-tempeh",
+    "URL": "https://www.ah.nl/producten/product/wi233440/ah-curry-madras-verspakket",
+    "Quantity": 1,
+    "MaxShelfLifeInDays": "",
+    "IsBonusRequired": false,
+    "ID": 233440
+  },
+  {
+    "Meal": "curry-madras-pakket-met-tempeh",
+    "URL": "https://www.ah.nl/producten/product/wi412551/ah-terra-tempeh-ketjap",
+    "Quantity": 1,
+    "MaxShelfLifeInDays": "",
+    "IsBonusRequired": false,
+    "ID": 412551
+  },
+  {
+    "Meal": "curry-madras-pakket-met-tempeh",
+    "URL": "https://www.ah.nl/producten/product/wi41194/ah-paprika-mix",
+    "Quantity": 1,
+    "MaxShelfLifeInDays": "",
+    "IsBonusRequired": false,
+    "ID": 41194
+  },
+  {
+    "Meal": "curry-madras-pakket-met-tempeh",
+    "URL": "https://www.ah.nl/producten/product/wi238968/ah-koriander",
+    "Quantity": 1,
+    "MaxShelfLifeInDays": "",
+    "IsBonusRequired": false,
+    "ID": 238968
+  },
+  {
+    "Meal": "spruitjes-met-gebakken-aardappels-en-druiven",
+    "URL": "https://www.ah.nl/producten/product/wi117192/ah-kleine-spruitjes",
+    "Quantity": 1,
+    "MaxShelfLifeInDays": "",
+    "IsBonusRequired": true,
+    "ID": 117192
+  },
+  {
+    "Meal": "spruitjes-met-gebakken-aardappels-en-druiven",
+    "URL": "https://www.ah.nl/producten/product/wi123866/ah-vastkokende-aardappelen",
+    "Quantity": 1,
+    "MaxShelfLifeInDays": "",
+    "IsBonusRequired": false,
+    "ID": 123866
+  },
+  {
+    "Meal": "spruitjes-met-gebakken-aardappels-en-druiven",
+    "URL": "https://www.ah.nl/producten/product/wi100232/ah-rode-druiven-pitloos",
+    "Quantity": 1,
+    "MaxShelfLifeInDays": "",
+    "IsBonusRequired": false,
+    "ID": 100232
+  },
+  {
+    "Meal": "spruitjes-met-gebakken-aardappels-en-druiven",
+    "URL": "https://www.ah.nl/producten/product/wi436763/ah-biologisch-slavink",
+    "Quantity": 1,
+    "MaxShelfLifeInDays": "",
+    "IsBonusRequired": false,
+    "ID": 436763
   }
 ]

@@ -275,28 +275,28 @@
   {
     "Slug": "courgette-lasagne-met-spi",
     "Meal": "Courgette-lasagne met spinazie, wortel, champignons en gehakt",
-    "PreparationTimeMinutes": 0,
-    "CanBeLeftovers": false,
+    "PreparationTimeMinutes": 45,
+    "CanBeLeftovers": true,
     "NumberOfPeople": 3
   },
   {
     "Slug": "stamppot-met-rode-kool-app",
     "Meal": "Stamppot met rode kool, appelmoes en hachee",
-    "PreparationTimeMinutes": 0,
-    "CanBeLeftovers": false,
+    "PreparationTimeMinutes": 45,
+    "CanBeLeftovers": true,
     "NumberOfPeople": 3
   },
   {
     "Slug": "gnocchi-met-broccoli-en-r",
     "Meal": "Gnocchi met broccoli en rundervink",
-    "PreparationTimeMinutes": 0,
+    "PreparationTimeMinutes": 30,
     "CanBeLeftovers": false,
     "NumberOfPeople": 3
   },
   {
     "Slug": "wraps",
     "Meal": "Wraps",
-    "PreparationTimeMinutes": 0,
+    "PreparationTimeMinutes": 30,
     "CanBeLeftovers": false,
     "NumberOfPeople": 3
   }
